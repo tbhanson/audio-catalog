@@ -1,0 +1,19 @@
+# Racket build output
+compiled/
+*.zo
+*.dep
+
+# Catalogs and exports, if ever created inside the project
+*.sqlite
+*.sqlite-journal
+*.csv
+
+# Private test recordings
+samples/
+private/
+
+# Editor and macOS clutter
+*~
+\#*\#
+.\#*
+.DS_Store

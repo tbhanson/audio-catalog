@@ -105,3 +105,9 @@ the Mac: compute a voice embedding for each speech segment with a local
 model, label a few segments per person by hand, and match the rest by
 similarity, storing the result in a new `speakers` / `segment_speaker` pair
 of tables. Nothing here uploads audio anywhere.
+
+## Related
+
+- [audio-hacks](https://github.com/tbhanson/audio-hacks): smaller
+  single-purpose audio tools (MuseScore export diagnostics, rehearsal
+  MP3 generation).
